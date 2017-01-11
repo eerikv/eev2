@@ -2,11 +2,13 @@ html {
   overflow-y: scroll;
 }
 body {
-	background-color: #e6e7e6;
-	background-image: url("images/gradientbackground.png");
+	background: #e6e7e6;
+	background: -webkit-radial-gradient(#fafafa, #d5d5d5);
+	background: -o-radial-gradient(#fafafa, #d5d5d5);
+	background: -moz-radial-gradient(#fafafa, #d5d5d5);
+	background: radial-gradient(#fafafa, #d5d5d5);
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	background-size: cover;
 }
 ul {
 	z-index: 10;
