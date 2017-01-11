@@ -1,3 +1,6 @@
+html {
+  overflow-y: scroll;
+}
 body {
 	background-color: #e6e7e6;
 	background-image: url("images/gradientbackground.png");
