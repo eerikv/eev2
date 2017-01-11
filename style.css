@@ -2,13 +2,13 @@ html {
   overflow-y: scroll;
 }
 body {
-	background: #e6e7e6;
-	background: -webkit-radial-gradient(#fafafa, #d5d5d5);
+	background: red;
+	/*background: -webkit-radial-gradient(#fafafa, #d5d5d5);
 	background: -o-radial-gradient(#fafafa, #d5d5d5);
 	background: -moz-radial-gradient(#fafafa, #d5d5d5);
 	background: radial-gradient(#fafafa, #d5d5d5);
 	background-repeat: no-repeat;
-	background-attachment: fixed;
+	background-attachment: fixed;*/
 }
 ul {
 	z-index: 10;
